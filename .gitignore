@@ -1,0 +1,17 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local SQLite databases generated at runtime
+*.db
+*.sqlite
+*.sqlite3
+
+# Internal conversation progress file
+progress.md
+
+# Operating System files
+.DS_Store
+Thumbs.db

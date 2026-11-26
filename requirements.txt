@@ -1,0 +1,4 @@
+# Core Dependencies for AccuKnox AI Security Engineer Assignment
+requests>=2.31.0
+matplotlib>=3.8.0
+pytest>=8.0.0

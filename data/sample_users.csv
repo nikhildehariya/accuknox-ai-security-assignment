@@ -1,0 +1,13 @@
+name,email,role
+Alice Smith,alice.smith@accuknox.com,Security Engineer
+Bob Jones,bob.jones@example.org,Data Scientist
+Charlie Brown,charlie.brown@company.net,DevOps Specialist
+Diana Prince,diana.prince@security.io,AI Researcher
+Nikhil Dehariya,nikhildehariya100@gmail.com,AI Security Trainee
+Evan Wright,evan.wright@cloudsec.dev,SOC Analyst
+Frank Miller,invalid-email-format,QA Engineer
+Grace Hopper,,Systems Architect
+,missing.name@domain.com,Developer
+Henry Ford,henry@bad_domain,Manager
+Alice Smith Duplicate,alice.smith@accuknox.com,Security Engineer
+John Doe,john.doe@mail..com,Analyst
